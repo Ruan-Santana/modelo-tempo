@@ -1,0 +1,29 @@
+body{
+  background: radial-gradient(rgba(56, 186, 247, 0.781), rgba(170, 168, 168, 0.521));
+  font: normal 15pt bold;
+}
+
+header{
+  text-align: center;
+  color: white
+}
+
+section{
+background: white;
+border-radius: 10px;
+padding: 10px;
+margin: auto;
+width: auto;
+  max
+}
+
+div{
+  text-align: center;
+  margin: 8px;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  font: italic;
+}
